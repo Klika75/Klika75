@@ -2,6 +2,9 @@
 
 - 🌱 I’m currently learning 
 
+
+- 🔭 I’m currently compiling this [project wiki](https://github.com/Klika75/Klika75/wiki).
+
 <!--
 **Klika75/Klika75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
